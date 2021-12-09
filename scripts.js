@@ -64,7 +64,7 @@ var products = [
     }
 ];
  
-//aqui vai ficar toda a logica da aplicação
+//aqui vai ficar toda a logica da aplicação (teste)
 const MaquinaDeAutoServico = {
     data(){
         return {
